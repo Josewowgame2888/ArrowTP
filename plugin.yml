@@ -1,0 +1,5 @@
+name: ArrowTP
+main: plugin\Loader
+api: 3.0.0
+author: Josewowgame
+version: 1.0
